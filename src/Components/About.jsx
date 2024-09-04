@@ -38,7 +38,7 @@ const skillsList = [
   "BOOTSTRAP",
   "JAVA",
   "C",
-  "SQL",
+  "ReactJs",
   "LINUX",
   "GIT"
   
